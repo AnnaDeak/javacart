@@ -1,20 +1,20 @@
-book:64:Marianne Dubuc:The Lion and the Bird:childrensbook:false
-book:184:Andre Malraux:The Way of the Kings:novel:existentialist
-cd:123:audiobook:Andrei Plesu:About Angels
-book:311:Margaret Atwood:The Handmaid's Tale:novel:distopia
-cd:251:audiobook:Oscar Wilde:The Importance of Being Earnest
-book:144:Marjane Satrapi:Embroideries:novel:comics
-cd:76:pop:Beyonce:2012
-book:75:Ervin Lazar:The Little Boy and the Lions:childrensbook:false
-book:92:Carroll Lewis:Alice in Wonderland:childrensbook:false
-cd:265:audiobook:Lev Tolstoy:War and Peace
-book:602:Eginald Schlattner:Rote Handschuhe:novel:historical
-cd:57:classical:Gabriel Faure
-book:270:Francois Villon:The Poems of Francois Villon:poetry:15
-book:106:Zsofia Balla:A nyar barlangja:poetry:20
-cd:123:pop:Sting:1995
-cd:87:classical:Francois Couperin
-book:41:Various Authors:A colouring book:childrensbook:true
-cd:234:classical:Gyorgy Kurtag
-cd:65:classical:Claudio Monteverdi
-cd:87:pop:Maroon 5:2001
+book:100:64:Marianne Dubuc:The Lion and the Bird:childrensbook:false
+book:150:184:Andre Malraux:The Way of the Kings:novel:existentialist
+cd:125:123:audiobook:Andrei Plesu:About Angels
+book:100:311:Margaret Atwood:The Handmaid's Tale:novel:distopia
+cd:200:251:audiobook:Oscar Wilde:The Importance of Being Earnest
+book:320:144:Marjane Satrapi:Embroideries:novel:comics
+cd:126:76:pop:Beyonce:2012
+book:155:75:Ervin Lazar:The Little Boy and the Lions:childrensbook:false
+book:212:92:Carroll Lewis:Alice in Wonderland:childrensbook:false
+cd:285:265:audiobook:Lev Tolstoy:War and Peace
+book:135:602:Eginald Schlattner:Rote Handschuhe:novel:historical
+cd:100:57:classical:Gabriel Faure
+book:200:270:Francois Villon:The Poems of Francois Villon:poetry:15
+book:156:106:Zsofia Balla:A nyar barlangja:poetry:20
+cd:200:123:pop:Sting:1995
+cd:100:87:classical:Francois Couperin
+book:50:41:Various Authors:A colouring book:childrensbook:true
+cd:250:234:classical:Gyorgy Kurtag
+cd:100:65:classical:Claudio Monteverdi
+cd:200:87:pop:Maroon 5:2001
